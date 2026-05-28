@@ -8,5 +8,5 @@ Hello.World();
 
 /*
 dotnet pack Sample.cs -p:Version=0.0.1
-dotnet Test.cs
+dotnet Sample.Test.cs
 */

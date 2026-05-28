@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "naratteu",
+  "classifications": [ "SourceGenerator", "FBA" ],
+  "identity": "srcgen-fba",
+  "name": "SourceGenerator (File-based App)",
+  "shortName": "srcgen-fba",
+  "sourceName": "Sample",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
